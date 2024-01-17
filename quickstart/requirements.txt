@@ -1,5 +1,4 @@
 ## The following requirements were added by pip freeze:
-scann
 absl-py==1.4.0
 array-record==0.4.0
 astunparse==1.6.3
